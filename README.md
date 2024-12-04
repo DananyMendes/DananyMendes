@@ -15,3 +15,17 @@ Além disso, tenho um pé em Ciência de Dados, criando modelos que ajudam empre
 
 🎯 Meu foco atual: me tornar executivo de TI, liderando estratégias que conectem tecnologia e negócios.
 
+## Coisas que amo trabalhar 💡
+Resolver problemas complexos (do tipo que dá orgulho contar depois 🤓).
+Automatizar tarefas repetitivas (sim, eu odeio ctrl+c e ctrl+v tanto quanto você).
+Contar histórias com dados, transformando planilhas chatas em gráficos que realmente falam algo.
+
+## Curiosidades sobre mim 🧩
+Sou fã de café, especialmente quando o código não compila. ☕
+Estou aprendendo inglês (always learning 🚀).
+
+## Vamos trocar uma ideia?
+Se quiser bater um papo, colaborar em um projeto ou só trocar uma ideia sobre tecnologia, me chama aqui ou no LinkedIn.
+
+Bora construir algo incrível juntos! 🚀
+
